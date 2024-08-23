@@ -1,0 +1,43 @@
+header {
+    background-color: rgb(43, 1, 43);
+    color: white;
+    margin-bottom: 32px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: #fff;
+}
+a:hover {
+    color: #fff;
+}
+
+img {
+    max-width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.game {
+    display: grid;
+}
+b {
+    color: rgb(0, 255, 68);
+}
+
+del {
+    color: rgb(158, 158, 158);
+}
+
+.nintendo {
+    color: rgb(255, 4, 16)
+}
+
+.playstation {
+    color: rgb(0, 42, 255);
+}
